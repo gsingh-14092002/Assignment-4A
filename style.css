@@ -8,6 +8,11 @@
   filter: brightness(0.6);
 }
 
+.overview {
+  height: 180px;
+  background-color: #d3dae1;
+}
+
 .card-img-top {
   height: 250px;
   object-fit: cover;
